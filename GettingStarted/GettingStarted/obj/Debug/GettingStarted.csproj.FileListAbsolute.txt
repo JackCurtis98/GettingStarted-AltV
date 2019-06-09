@@ -1,0 +1,10 @@
+C:\Users\jack_\Desktop\AltV\resources\GettingStarted\GettingStarted.deps.json
+C:\Users\jack_\Desktop\AltV\resources\GettingStarted\GettingStarted.dll
+C:\Users\jack_\source\repos\GettingStarted\GettingStarted\obj\Debug\GettingStarted.csproj.CoreCompileInputs.cache
+C:\Users\jack_\source\repos\GettingStarted\GettingStarted\obj\Debug\GettingStarted.AssemblyInfoInputs.cache
+C:\Users\jack_\source\repos\GettingStarted\GettingStarted\obj\Debug\GettingStarted.AssemblyInfo.cs
+C:\Users\jack_\source\repos\GettingStarted\GettingStarted\obj\Debug\GettingStarted.csprojAssemblyReference.cache
+C:\Users\jack_\source\repos\GettingStarted\GettingStarted\obj\Debug\GettingStarted.csproj.CopyComplete
+C:\Users\jack_\Desktop\AltV\resources\GettingStarted\GettingStarted.pdb
+C:\Users\jack_\source\repos\GettingStarted\GettingStarted\obj\Debug\GettingStarted.dll
+C:\Users\jack_\source\repos\GettingStarted\GettingStarted\obj\Debug\GettingStarted.pdb
